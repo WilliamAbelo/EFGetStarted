@@ -37,7 +37,7 @@ Projeto em Console Aplication criado para estudo de aplicação do Entity Framew
         ```
    [^1]: [Dotnet Restore](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-restore)
    
-   [^2]: [Dotnet Restore](https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli)
+   [^2]: [Dotnet Migrations](https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli)
 
    [^3]: [Dotnet Build](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-build)
     
